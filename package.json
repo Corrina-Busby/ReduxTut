@@ -1,0 +1,26 @@
+{
+  "name": "reduxtut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Corrina-Busby/ReduxTut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Corrina-Busby/ReduxTut/issues"
+  },
+  "homepage": "https://github.com/Corrina-Busby/ReduxTut#readme",
+  "dependencies": {
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.5.0"
+  }
+}
